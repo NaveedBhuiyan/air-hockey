@@ -28,14 +28,4 @@ This will start a development server and open the game in your browser.
 
 Player 1 controls their paddle using the up and down arrow keys.
 Player 2 controls their paddle by moving the mouse up and down over the canvas.
-The first player to score 5 points wins!
-
-## Project Structure
-air-hockey-game/
-├── package.json
-├── README.md  (This file)
-└── src/
-    └── AirHockey.jsx  (The main game component)
-
-    Dependencies
-React
+The first player to score 5 points wins!g
